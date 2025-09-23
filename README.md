@@ -17,9 +17,8 @@ Right-to-Left (RTL) Support: Suitable for Persian/Farsi content
 Simple Animation: Sidebar toggle with CSS and JavaScript
 
 <h1>🎬Preview</h1>
+https://raw.githubusercontent.com/Fatemeh-Rasouli/Side-Bar/master/img/SideBar.png
 
-
-(Replace with a GIF of sidebar animation if available)
 
 <h1>🛠Installation & Usage</h1>
 
