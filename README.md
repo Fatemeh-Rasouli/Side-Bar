@@ -2,7 +2,7 @@
 
 A simple interactive website built with HTML, CSS, and JavaScript, featuring a header, content section, and a collapsible sidebar. This project is created as a practice for web design and interactive elements.
 
-✨ <h1>Features</h1>
+<h1>✨Features</h1>
 
 Beautiful Header: Title and short description with appealing design
 
@@ -16,12 +16,12 @@ Right-to-Left (RTL) Support: Suitable for Persian/Farsi content
 
 Simple Animation: Sidebar toggle with CSS and JavaScript
 
-🎬<h1> Preview</h1>
+<h1>🎬Preview</h1>
 
 
 (Replace with a GIF of sidebar animation if available)
 
-🛠<h1>Installation & Usage</h1>
+<h1>🛠Installation & Usage</h1>
 
 Clone the repository:
 
@@ -50,7 +50,7 @@ project-folder/
 └─ fonts/
    └─ vazir.*
 
-⚙️<h1> Technologies</h1>
+<h1>⚙️Technologies</h1>
 
 HTML5
 
@@ -60,7 +60,7 @@ JavaScript
 
 Persian Font: Vazir
 
-📝<h1> Usage</h1>
+<h1>📝Usage</h1>
 
 Click the button to toggle the sidebar open and closed.
 
